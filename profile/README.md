@@ -3,4 +3,4 @@
 
 - 🌍 **Sitio web:** [https://tropicalhost.net](https://tropicalhost.net)  
 - 📩 **Soporte:** soporte@tropicalhost.net / soporte@tropicalhost.xyz
-- 📌 **Discord:** [Nuestros Discord](--) 
+- 📌 **Discord:** [Nuestros Discord](https://discord.gg/nodes) 
